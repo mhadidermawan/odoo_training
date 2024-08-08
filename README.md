@@ -1,3 +1,6 @@
+# Nama : Muhammad Hadi Dermawan
+# email : dermawanhadi34@gmail.com
+
 # Pembuatan Custom Modul Pada Odoo
 
 Proyek ini dikembangkan selama bootcamp yang diselenggarakan oleh Juke Solution. Fokus dari pelatihan ini adalah membuat modul kustom di Odoo, dengan mengeksplorasi berbagai komponen teknis yang membentuk kerangka kerja Odoo yang kuat.
